@@ -1,6 +1,6 @@
 {
   "name": "aquarium",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A proportional value distribution library",
   "main": "index.js",
   "scripts": {
