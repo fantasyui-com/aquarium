@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/fantasyui-com/aquarium/issues"
   },
-  "homepage": "https://github.com/fantasyui-com/aquarium#readme"
+  "homepage": "https://github.com/fantasyui-com/aquarium#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "oneof": "^1.0.1"
+  }
 }
